@@ -21,7 +21,11 @@ build the TensorFlow Android Inference library using
 [tensorflow/contrib/android/cmake](../../../tensorflow/contrib/android/cmake).
 
 
+...................................................................................................................................
 
+BY PRAISON JOSHUA
+
+ 
 Just build the file in android studio and build apk and run it on mobile on some heritage sites 
 
 59 custom trained model 
